@@ -1,5 +1,15 @@
 # Process all remaining markers
-execute as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
+execute in minecraft:overworld as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
+execute in minecraft:the_nether as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
+execute in minecraft:the_end as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
+execute in minecraft:cursed_world as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
+execute in minecraft:cursed_world_nether as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
+execute in minecraft:cursed_world_the_end as @e[type=marker,tag=enchantplus.hit_block.timber] at @s if block ~ ~ ~ minecraft:air run function enchantplus:actions/timber/destroy
 
 # Schedule the next iteration if there are still markers to process
-execute if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
+execute in minecraft:overworld if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
+execute in minecraft:the_nether if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
+execute in minecraft:the_end if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
+execute in minecraft:cursed_world if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
+execute in minecraft:cursed_world_nether if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
+execute in minecraft:cursed_world_the_end if entity @e[type=marker,tag=enchantplus.hit_block.timber] run schedule function enchantplus:actions/timber/process_markers 1t
