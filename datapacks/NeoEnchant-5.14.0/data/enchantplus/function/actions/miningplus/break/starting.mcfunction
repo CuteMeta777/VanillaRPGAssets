@@ -15,6 +15,7 @@ execute if score #direction enchantplus.data matches 0 if entity @s[y_rotation=-
 execute if score #direction enchantplus.data matches 0 if entity @s[y_rotation=135..180,x_rotation=-45..65] run scoreboard players set #direction enchantplus.data 2
 execute if score #direction enchantplus.data matches 0 if entity @s[y_rotation=45..135,x_rotation=-45..65] run scoreboard players set #direction enchantplus.data 3
 execute if score #direction enchantplus.data matches 0 if entity @s[y_rotation=-135..-45,x_rotation=-45..65] run scoreboard players set #direction enchantplus.data 3
+execute if score #direction enchantplus.data matches 0 run scoreboard players set #direction enchantplus.data 2
 
 # For each found direction, call the function to break blocks
 execute if score #direction enchantplus.data matches 1 run function enchantplus:actions/miningplus/break/up_down
