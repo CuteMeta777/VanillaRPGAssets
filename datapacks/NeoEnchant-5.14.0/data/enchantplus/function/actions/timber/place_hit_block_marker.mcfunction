@@ -8,5 +8,5 @@
 
 execute align xyz run summon marker ~ ~ ~ {Tags: ["enchantplus.libs.hit_block", "enchantplus.hit_block.timber"]}
 execute store result score @n[type=minecraft:marker,tag=enchantplus.hit_block.timber] enchantplus.gametime run time query gametime
-schedule function enchantplus:libs/hit_block/schedule_handler 5s append
+schedule function enchantplus:libs/hit_block/schedule_handler 120s append
 function enchantplus:actions/timber/process_markers

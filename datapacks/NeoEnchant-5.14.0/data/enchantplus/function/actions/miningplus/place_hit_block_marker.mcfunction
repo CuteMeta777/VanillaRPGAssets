@@ -7,5 +7,5 @@
 #
 
 execute align xyz summon marker run function enchantplus:actions/miningplus/summon_marker
-schedule function enchantplus:libs/hit_block/schedule_handler 5s append
+schedule function enchantplus:libs/hit_block/schedule_handler 120s append
 function enchantplus:actions/miningplus/process_markers
