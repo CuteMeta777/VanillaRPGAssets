@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_chestplate"
+    },
+    "title": {
+      "translate": "advancement.enchantplus.title.chestplate",
+      "fallback": "Neo Chestplate",
+      "color": "#FFE2A8"
+    },
+    "description": {
+      "translate": "advancement.enchantplus.description.chestplate",
+      "fallback": "Get every custom enchantment book for the chestplate",
+      "color": "green"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "enchantplus:armor/start",
+  "criteria": {
+    "got_builder_arm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:chestplate/builder_arm"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "got_builder_arm"
+    ]
+  ]
+}

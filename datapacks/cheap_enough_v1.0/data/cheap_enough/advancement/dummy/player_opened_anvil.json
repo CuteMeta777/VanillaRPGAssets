@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:any_of",
+            "terms": [
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "minecraft:anvil",
+                "properties": {}
+              },
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "minecraft:chipped_anvil",
+                "properties": {}
+              },
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "minecraft:damaged_anvil",
+                "properties": {}
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "cheap_enough:open_anvil"
+  }
+}

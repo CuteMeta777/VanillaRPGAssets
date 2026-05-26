@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Caps anvil repair costs at 30 levels, bypassing the 'Too Expensive!' Mechanic"
+	}
+}

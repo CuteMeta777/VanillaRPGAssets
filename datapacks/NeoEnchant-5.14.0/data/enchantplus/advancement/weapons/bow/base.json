@@ -1,0 +1,159 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bow"
+    },
+    "title": {
+      "translate": "advancement.enchantplus.title.bow",
+      "fallback": "Neo Bow",
+      "color": "#FFE2A8"
+    },
+    "description": {
+      "translate": "advancement.enchantplus.description.bow",
+      "fallback": "Get every custom enchantment book for the bow",
+      "color": "green"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "enchantplus:weapons/start",
+  "criteria": {
+    "explosive_arrow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/explosive_arrow"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "breezing_arrow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/breezing_arrow"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "echo_shot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/echo_shot"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "storm_arrow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/storm_arrow"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "accuracy_shot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/accuracy_shot"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "eternal_frost": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/eternal_frost"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "rebound": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantplus:bow/rebound"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "explosive_arrow"
+    ],
+    [
+      "accuracy_shot"
+    ],
+    [
+      "breezing_arrow"
+    ],
+    [
+      "echo_shot"
+    ],
+    [
+      "storm_arrow"
+    ],
+    [
+      "eternal_frost"
+    ],
+    [
+      "rebound"
+    ]
+  ]
+}
