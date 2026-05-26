@@ -1,0 +1,60 @@
+name: Release Assets
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'datapacks/**'
+      - 'resourcepacks/**'
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Create zips and checksums
+        run: |
+          # Create output directory
+          mkdir -p output
+          
+          # Zip datapack if exists
+          if [ -d "datapacks/CuteMetaDatapack" ]; then
+            cd datapacks/CuteMetaDatapack
+            zip -r ../../output/datapack.zip .
+            cd ../..
+          fi
+
+          # Zip resourcepack if exists
+          if [ -d "resourcepacks/CuteMetaResourcePack" ]; then
+            cd resourcepacks/CuteMetaResourcePack
+            zip -r ../../output/resourcepack.zip .
+            cd ../..
+          fi
+
+          # Generate checksums
+          cd output
+          sha1sum * > checksums.txt
+          cat checksums.txt
+
+      - name: Generate Checksums Env
+        run: |
+          echo "CHECKSUMS<<EOF" >> $GITHUB_ENV
+          cat output/checksums.txt >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Create or Update Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: Latest Assets
+          body: "Automatically generated assets from the latest commit.\n\n### SHA-1 Checksums:\n```\n${{ env.CHECKSUMS }}\n```"
+          files: |
+            output/datapack.zip
+            output/resourcepack.zip
+            output/checksums.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

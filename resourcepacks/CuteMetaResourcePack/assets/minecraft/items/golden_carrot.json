@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 4001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/eternal_golden_carrot"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_carrot"
+    }
+  }
+}

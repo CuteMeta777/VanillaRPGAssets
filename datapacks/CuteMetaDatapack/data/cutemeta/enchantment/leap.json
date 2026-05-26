@@ -1,0 +1,28 @@
+{
+  "description": {
+    "translate": "enchantment.cutemeta.leap",
+    "fallback": "Leap"
+  },
+  "supported_items": [
+    "minecraft:leather_boots",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_boots",
+    "minecraft:golden_boots",
+    "minecraft:diamond_boots",
+    "minecraft:netherite_boots"
+  ],
+  "weight": 5,
+  "max_level": 2,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "feet"
+  ]
+}
