@@ -59,7 +59,13 @@ jobs:
           gh release create latest \
             --title "Latest Assets" \
             --notes "$NOTES" \
-            --target main \
-            output/datapack.zip \
-            output/resourcepack.zip \
-            output/checksums.txt
+            --target main
+            
+          # Upload assets sequentially to avoid GitHub API concurrency 500 errors
+          if [ -f "output/datapack.zip" ]; then
+            gh release upload latest output/datapack.zip --clobber
+          fi
+          if [ -f "output/resourcepack.zip" ]; then
+            gh release upload latest output/resourcepack.zip --clobber
+          fi
+          gh release upload latest output/checksums.txt --clobber
