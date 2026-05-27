@@ -24,5 +24,25 @@
   "anvil_cost": 2,
   "slots": [
     "feet"
-  ]
+  ],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 0.2,
+          "per_level_above_first": 0.2
+        },
+        "operation": "add_value",
+        "id": "cutemeta:enchantment.leap.jump_strength"
+      },
+      {
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "amount": 10000.0,
+        "operation": "add_value",
+        "id": "cutemeta:enchantment.leap.safe_fall_distance"
+      }
+    ]
+  }
 }
