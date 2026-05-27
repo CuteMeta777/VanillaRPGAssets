@@ -851,6 +851,13 @@
         }
       },
       {
+        "threshold": 2041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pck"
+        }
+      },
+      {
         "threshold": 3000,
         "model": {
           "type": "minecraft:model",
@@ -1780,5 +1787,4 @@
       "model": "minecraft:item/unspecified"
     }
   }
-} 
- 
+}
