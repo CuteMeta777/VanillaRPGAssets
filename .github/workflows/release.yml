@@ -38,6 +38,13 @@ jobs:
             cd ../..
           fi
 
+          # Zip PCKResourcePack if exists
+          if [ -d "resourcepacks/PCKResourcePack" ]; then
+            cd resourcepacks/PCKResourcePack
+            zip -r ../../output/pck_resourcepack.zip .
+            cd ../..
+          fi
+
           # Generate checksums
           cd output
           sha1sum * > checksums.txt
@@ -67,5 +74,8 @@ jobs:
           fi
           if [ -f "output/resourcepack.zip" ]; then
             gh release upload latest output/resourcepack.zip --clobber
+          fi
+          if [ -f "output/pck_resourcepack.zip" ]; then
+            gh release upload latest output/pck_resourcepack.zip --clobber
           fi
           gh release upload latest output/checksums.txt --clobber

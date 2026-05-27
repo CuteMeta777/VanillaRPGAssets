@@ -1,0 +1,1125 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 1000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/crypt_charm"
+        }
+      },
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/soul_of_flesh"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tortured_soul_of_flesh"
+        }
+      },
+      {
+        "threshold": 1003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/immortals_core"
+        }
+      },
+      {
+        "threshold": 1004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/aegis_of_the_dragon"
+        }
+      },
+      {
+        "threshold": 1005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/blood_gods_relic"
+        }
+      },
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/reason_of_life"
+        }
+      },
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/concentrated_stone"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/concentrated_diamond"
+        }
+      },
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/concentrated_eternity"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/farmers_wisdom"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/exquisite_feather"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/blessing_of_wind"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sonic_shard"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/vicious_gale"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lightning_relic"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/extreme_accelerator"
+        }
+      },
+      {
+        "threshold": 1017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/natures_whisper"
+        }
+      },
+      {
+        "threshold": 1018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/forests_wisdom"
+        }
+      },
+      {
+        "threshold": 1019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/ocean_breeze"
+        }
+      },
+      {
+        "threshold": 1020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/the_pure_blue_substance"
+        }
+      },
+      {
+        "threshold": 1021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/eternal_scroll"
+        }
+      },
+      {
+        "threshold": 1022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/abyssal_scroll"
+        }
+      },
+      {
+        "threshold": 1023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/living_scroll"
+        }
+      },
+      {
+        "threshold": 1024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sharp_pebble"
+        }
+      },
+      {
+        "threshold": 1025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/staring_eye"
+        }
+      },
+      {
+        "threshold": 1026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/stained_fragment"
+        }
+      },
+      {
+        "threshold": 1027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/simply_fatal"
+        }
+      },
+      {
+        "threshold": 1028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/blessed_rabbits_foot"
+        }
+      },
+      {
+        "threshold": 1029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gaze_of_the_void"
+        }
+      },
+      {
+        "threshold": 1030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/dominant_web"
+        }
+      },
+      {
+        "threshold": 1031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sharpened_fang"
+        }
+      },
+      {
+        "threshold": 1032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/wicked_spike"
+        }
+      },
+      {
+        "threshold": 1033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/warped_anvil"
+        }
+      },
+      {
+        "threshold": 1034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/extreme_weight"
+        }
+      },
+      {
+        "threshold": 1035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/emperors_pride"
+        }
+      },
+      {
+        "threshold": 1036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/calamity_stone"
+        }
+      },
+      {
+        "threshold": 1037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/unleashed_surge"
+        }
+      },
+      {
+        "threshold": 1038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/luminous_pebble"
+        }
+      },
+      {
+        "threshold": 1039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/resonating_stone"
+        }
+      },
+      {
+        "threshold": 1040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/aether_stone"
+        }
+      },
+      {
+        "threshold": 1041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mana_debris"
+        }
+      },
+      {
+        "threshold": 1042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mana_heart"
+        }
+      },
+      {
+        "threshold": 1043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/the_flow"
+        }
+      },
+      {
+        "threshold": 1044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/clear_mind"
+        }
+      },
+      {
+        "threshold": 1045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/turtle_belt"
+        }
+      },
+      {
+        "threshold": 1046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/wierd_belt"
+        }
+      },
+      {
+        "threshold": 1047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_belt"
+        }
+      },
+      {
+        "threshold": 1048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_belt"
+        }
+      },
+      {
+        "threshold": 1049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mighty_belt"
+        }
+      },
+      {
+        "threshold": 1050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/frighting_belt"
+        }
+      },
+      {
+        "threshold": 1051,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/eternal_belt"
+        }
+      },
+      {
+        "threshold": 1052,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/clean_essence"
+        }
+      },
+      {
+        "threshold": 1053,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/purified_essence"
+        }
+      },
+      {
+        "threshold": 1054,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/healing_essence"
+        }
+      },
+      {
+        "threshold": 1055,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mending_essence"
+        }
+      },
+      {
+        "threshold": 1056,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/restoring_essence"
+        }
+      },
+      {
+        "threshold": 1057,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/atonement_essence"
+        }
+      },
+      {
+        "threshold": 1058,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/null_essence"
+        }
+      },
+      {
+        "threshold": 1059,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/crude_bowstring"
+        }
+      },
+      {
+        "threshold": 1060,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/decent_bowstring"
+        }
+      },
+      {
+        "threshold": 1061,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/good_bowstring"
+        }
+      },
+      {
+        "threshold": 1062,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/qualified_bowstring"
+        }
+      },
+      {
+        "threshold": 1063,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/venom_tip"
+        }
+      },
+      {
+        "threshold": 1064,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fatal_tip"
+        }
+      },
+      {
+        "threshold": 1065,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/accurate_tip"
+        }
+      },
+      {
+        "threshold": 1066,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/old_cog"
+        }
+      },
+      {
+        "threshold": 1067,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/working_cog"
+        }
+      },
+      {
+        "threshold": 1068,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fast_cog"
+        }
+      },
+      {
+        "threshold": 1069,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/quick_cog"
+        }
+      },
+      {
+        "threshold": 1070,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flaming_cog"
+        }
+      },
+      {
+        "threshold": 1071,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/overclocked_cog"
+        }
+      },
+      {
+        "threshold": 1072,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/eternal_cog"
+        }
+      },
+      {
+        "threshold": 1073,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/broken_timer"
+        }
+      },
+      {
+        "threshold": 1074,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/still_timer"
+        }
+      },
+      {
+        "threshold": 1075,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/managed_timer"
+        }
+      },
+      {
+        "threshold": 1076,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/uniform_timer"
+        }
+      },
+      {
+        "threshold": 1077,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/realizer_invasion"
+        }
+      },
+      {
+        "threshold": 1078,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/realizer_looting"
+        }
+      },
+      {
+        "threshold": 1079,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/realizer_eternity"
+        }
+      },
+      {
+        "threshold": 2000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/unstable_energy"
+        }
+      },
+      {
+        "threshold": 2001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/forbidden_knowledge"
+        }
+      },
+      {
+        "threshold": 2002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/shadow_silk"
+        }
+      },
+      {
+        "threshold": 2003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/submerged_memory"
+        }
+      },
+      {
+        "threshold": 2004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/void_crystal"
+        }
+      },
+      {
+        "threshold": 2005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/inferno_essence"
+        }
+      },
+      {
+        "threshold": 2006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/synthetic_heart"
+        }
+      },
+      {
+        "threshold": 2007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sticky_substance"
+        }
+      },
+      {
+        "threshold": 2008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/solidified_magma"
+        }
+      },
+      {
+        "threshold": 2009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mighty_tusk"
+        }
+      },
+      {
+        "threshold": 2010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/antigravity_gem"
+        }
+      },
+      {
+        "threshold": 2011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/blessed_eye"
+        }
+      },
+      {
+        "threshold": 2012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/frighting_horn"
+        }
+      },
+      {
+        "threshold": 2013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/forgotten_love"
+        }
+      },
+      {
+        "threshold": 2014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/royal_jelly"
+        }
+      },
+      {
+        "threshold": 2015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fatal_virus"
+        }
+      },
+      {
+        "threshold": 2016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/will_of_commander"
+        }
+      },
+      {
+        "threshold": 2017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bouncy_bone"
+        }
+      },
+      {
+        "threshold": 2018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/abyssal_dust"
+        }
+      },
+      {
+        "threshold": 2019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/transparent_membrane"
+        }
+      },
+      {
+        "threshold": 2020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bottled_desert_storm"
+        }
+      },
+      {
+        "threshold": 2021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/frozen_soul"
+        }
+      },
+      {
+        "threshold": 2022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/will_of_invader"
+        }
+      },
+      {
+        "threshold": 2023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/evokation_energy"
+        }
+      },
+      {
+        "threshold": 2024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/will_of_survivor"
+        }
+      },
+      {
+        "threshold": 2025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/withered_bone"
+        }
+      },
+      {
+        "threshold": 2026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/concentrated_wind"
+        }
+      },
+      {
+        "threshold": 2027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/will_of_revivor"
+        }
+      },
+      {
+        "threshold": 2028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/will_of_looter"
+        }
+      },
+      {
+        "threshold": 2029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/toxic_venom"
+        }
+      },
+      {
+        "threshold": 2030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sorrow"
+        }
+      },
+      {
+        "threshold": 2031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/ancient_core"
+        }
+      },
+      {
+        "threshold": 2032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/dragon_heart"
+        }
+      },
+      {
+        "threshold": 2033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/vicious_core"
+        }
+      },
+      {
+        "threshold": 2034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/secret_scroll"
+        }
+      },
+      {
+        "threshold": 2035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/royal_blood"
+        }
+      },
+      {
+        "threshold": 2036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 2037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 2038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 2039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 2040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 2041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pck"
+        }
+      },
+      {
+        "threshold": 3000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/dashing_sword"
+        }
+      },
+      {
+        "threshold": 3001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/assassin_dagger"
+        }
+      },
+      {
+        "threshold": 3002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/longsword"
+        }
+      },
+      {
+        "threshold": 3003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/rushing_sword"
+        }
+      },
+      {
+        "threshold": 3004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sanguine_katana"
+        }
+      },
+      {
+        "threshold": 3005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/shiny_bow"
+        }
+      },
+      {
+        "threshold": 3006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tempest_bow"
+        }
+      },
+      {
+        "threshold": 3007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/straight_bow"
+        }
+      },
+      {
+        "threshold": 3008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/skeleton_bow"
+        }
+      },
+      {
+        "threshold": 3009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/quick_bow"
+        }
+      },
+      {
+        "threshold": 3010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tarantula_bow"
+        }
+      },
+      {
+        "threshold": 3011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sniper_bow"
+        }
+      },
+      {
+        "threshold": 3012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/terminator"
+        }
+      },
+      {
+        "threshold": 3013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/guarding_hammer"
+        }
+      },
+      {
+        "threshold": 3014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/toy_hammer"
+        }
+      },
+      {
+        "threshold": 3015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/spiked_hammer"
+        }
+      },
+      {
+        "threshold": 3016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bloody_hammer"
+        }
+      },
+      {
+        "threshold": 3017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/steel_hammer"
+        }
+      },
+      {
+        "threshold": 3018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/inferno_rod"
+        }
+      },
+      {
+        "threshold": 3019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/glacial_staff"
+        }
+      },
+      {
+        "threshold": 3020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hurricane_wand"
+        }
+      },
+      {
+        "threshold": 3021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/ice_rod"
+        }
+      },
+      {
+        "threshold": 3022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/vulcan_staff"
+        }
+      },
+      {
+        "threshold": 3023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lightning_scroll"
+        }
+      },
+      {
+        "threshold": 3024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gravity_scroll"
+        }
+      },
+      {
+        "threshold": 3025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/the_divine_step"
+        }
+      },
+      {
+        "threshold": 3026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cataclysm_scroll"
+        }
+      },
+      {
+        "threshold": 3027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 3028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/healing_wand"
+        }
+      },
+      {
+        "threshold": 3029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/reapers_harvest"
+        }
+      },
+      {
+        "threshold": 3030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/holy_cannon"
+        }
+      },
+      {
+        "threshold": 3031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/purifying_sceptre"
+        }
+      },
+      {
+        "threshold": 3032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hero_wand"
+        }
+      },
+      {
+        "threshold": 4002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 4003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 4004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hardening_catalyst"
+        }
+      },
+      {
+        "threshold": 4005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/the_wisdom"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/unspecified"
+    }
+  }
+}
