@@ -53,6 +53,8 @@ jobs:
           # Delete existing release and tag if they exist
           gh release delete latest --cleanup-tag -y || true
           
+          sleep 5
+          
           # Create new release
           gh release create latest \
             --title "Latest Assets" \
