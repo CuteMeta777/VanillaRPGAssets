@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/antigravity_generator"
-  }
+  "parent": "minecraft:block/beacon"
 }

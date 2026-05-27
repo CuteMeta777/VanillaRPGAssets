@@ -7,7 +7,7 @@
         "threshold": 4006,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/eternal_elytra"
+          "model": "minecraft:item/utility/eternal_elytra"
         }
       }
     ],

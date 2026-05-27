@@ -7,7 +7,7 @@
         "threshold": 4001,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/eternal_golden_carrot"
+          "model": "minecraft:item/utility/eternal_golden_carrot"
         }
       }
     ],
