@@ -1777,7 +1777,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/knowledge_book"
+      "model": "minecraft:item/unspecified"
     }
   }
 } 
