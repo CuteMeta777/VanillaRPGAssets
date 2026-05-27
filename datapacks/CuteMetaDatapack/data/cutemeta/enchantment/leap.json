@@ -28,7 +28,7 @@
   "effects": {
     "minecraft:attributes": [
       {
-        "attribute": "minecraft:generic.jump_strength",
+        "attribute": "minecraft:jump_strength",
         "amount": {
           "type": "minecraft:linear",
           "base": 0.2,
@@ -38,7 +38,7 @@
         "id": "cutemeta:enchantment.leap.jump_strength"
       },
       {
-        "attribute": "minecraft:generic.safe_fall_distance",
+        "attribute": "minecraft:safe_fall_distance",
         "amount": 10000.0,
         "operation": "add_value",
         "id": "cutemeta:enchantment.leap.safe_fall_distance"
