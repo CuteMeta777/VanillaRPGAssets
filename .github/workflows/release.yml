@@ -57,6 +57,7 @@ jobs:
           gh release create latest \
             --title "Latest Assets" \
             --notes "$NOTES" \
+            --target main \
             output/datapack.zip \
             output/resourcepack.zip \
             output/checksums.txt
