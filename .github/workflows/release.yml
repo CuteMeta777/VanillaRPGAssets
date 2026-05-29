@@ -24,11 +24,11 @@ jobs:
           # Create output directory
           mkdir -p output
           
-          # Zip datapack if exists
-          if [ -d "datapacks/CuteMetaDatapack" ]; then
-            cd datapacks/CuteMetaDatapack
-            zip -r ../../output/datapack.zip .
-            cd ../..
+          # Zip datapacks if exists
+          if [ -d "datapacks" ]; then
+            cd datapacks
+            zip -r ../output/datapack.zip .
+            cd ..
           fi
 
           # Zip resourcepack if exists
