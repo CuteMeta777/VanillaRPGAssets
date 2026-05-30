@@ -59,6 +59,7 @@
         "minecraft:redstone_wire",
         "minecraft:tripwire",
         "minecraft:tripwire_hook",
-        "minecraft:lever"
+        "minecraft:lever",
+        "minecraft:nether_portal"
     ]
 }
