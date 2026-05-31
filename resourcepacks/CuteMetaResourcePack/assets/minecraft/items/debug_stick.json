@@ -858,6 +858,62 @@
         }
       },
       {
+        "threshold": 2042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_10"
+        }
+      },
+      {
+        "threshold": 2043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_20"
+        }
+      },
+      {
+        "threshold": 2044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_30"
+        }
+      },
+      {
+        "threshold": 2045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_40"
+        }
+      },
+      {
+        "threshold": 2046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_50"
+        }
+      },
+      {
+        "threshold": 2047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_60"
+        }
+      },
+      {
+        "threshold": 2048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_70"
+        }
+      },
+      {
+        "threshold": 2049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/iq_80"
+        }
+      },
+      {
         "threshold": 3000,
         "model": {
           "type": "minecraft:model",
