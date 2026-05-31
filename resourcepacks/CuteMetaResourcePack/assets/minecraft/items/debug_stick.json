@@ -1173,6 +1173,20 @@
         }
       },
       {
+        "threshold": 4015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/vault_expander"
+        }
+      },
+      {
+        "threshold": 4016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/accessory_bag_expander"
+        }
+      },
+      {
         "threshold": 5000,
         "model": {
           "type": "minecraft:model",
@@ -1779,20 +1793,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/armor/vanilla/vanilla_netherite_boots"
-        }
-      },
-      {
-        "threshold": 4010,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/custom/vault_expander"
-        }
-      },
-      {
-        "threshold": 4011,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/custom/accessory_bag_expander"
         }
       }
     ],
