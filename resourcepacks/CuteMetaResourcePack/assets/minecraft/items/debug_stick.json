@@ -1780,6 +1780,20 @@
           "type": "minecraft:model",
           "model": "minecraft:item/armor/vanilla/vanilla_netherite_boots"
         }
+      },
+      {
+        "threshold": 7024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/vault_expander"
+        }
+      },
+      {
+        "threshold": 7025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/accessory_bag_expander"
+        }
       }
     ],
     "fallback": {
