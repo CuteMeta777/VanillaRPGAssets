@@ -1684,6 +1684,13 @@
         }
       },
       {
+        "threshold": 6003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/rewinder"
+        }
+      },
+      {
         "threshold": 7000,
         "model": {
           "type": "minecraft:model",
