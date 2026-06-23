@@ -31,26 +31,6 @@
 					}
 				},
 				"operation": "add_multiplied_base"
-			},
-			{
-				"id": "minecraft:enchantment.drawfed.attack",
-				"attribute": "minecraft:attack_damage",
-				"amount": {
-					"type": "minecraft:linear",
-					"base": -1,
-					"per_level_above_first": -0.5
-				},
-				"operation": "add_value"
-			},
-			{
-				"id": "minecraft:enchantment.drawfed.reach",
-				"attribute": "minecraft:entity_interaction_range",
-				"amount": {
-					"type": "minecraft:linear",
-					"base": -0.15,
-					"per_level_above_first": -0.1
-				},
-				"operation": "add_multiplied_total"
 			}
 		]
 	}

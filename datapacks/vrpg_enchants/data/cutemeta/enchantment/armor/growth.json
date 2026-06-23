@@ -29,6 +29,7 @@
     "minecraft:netherite_leggings",
     "minecraft:netherite_boots"
   ],
+  "effects": {},
   "weight": 5,
   "max_level": 4,
   "min_cost": {
