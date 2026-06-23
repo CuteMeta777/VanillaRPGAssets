@@ -1,1 +1,0 @@
-$execute positioned ~$(size) ~ ~$(size) run function enchantplus:actions/harvest/place/x

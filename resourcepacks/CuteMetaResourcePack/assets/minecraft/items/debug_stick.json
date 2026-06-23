@@ -1169,63 +1169,77 @@
         "threshold": 4003,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/homing_totem"
+          "model": "minecraft:item/utility/hardening_catalyst"
         }
       },
       {
         "threshold": 4004,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/hardening_catalyst"
+          "model": "minecraft:item/utility/the_wisdom"
         }
       },
       {
         "threshold": 4005,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/the_wisdom"
+          "model": "minecraft:item/utility/eternal_elytra"
         }
       },
       {
         "threshold": 4006,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/eternal_elytra"
+          "model": "minecraft:item/utility/repelling_beacon"
         }
       },
       {
         "threshold": 4007,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/repelling_beacon"
+          "model": "minecraft:item/utility/antigravity_generator"
         }
       },
       {
         "threshold": 4008,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/antigravity_generator"
+          "model": "minecraft:item/utility/pck_dragon_mount"
         }
       },
       {
         "threshold": 4009,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/pck_dragon_mount"
+          "model": "minecraft:item/utility/compacted_repelling_beacon"
         }
       },
       {
         "threshold": 4010,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/miners_wand"
+          "model": "minecraft:item/utility/compacted_antigravity_generator"
         }
       },
       {
         "threshold": 4011,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/spelunkers_wand"
+          "model": "minecraft:item/utility/infinite_fuel"
+        }
+      },
+      {
+        "threshold": 4012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/vault_expander"
+        }
+      },
+      {
+        "threshold": 4013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/accessory_bag_expander"
         }
       },
       {
@@ -1856,6 +1870,27 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/armor/vanilla/vanilla_netherite_boots"
+        }
+      },
+      {
+        "threshold": 8000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tool/homing_totem"
+        }
+      },
+      {
+        "threshold": 8001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tool/miners_wand"
+        }
+      },
+      {
+        "threshold": 8002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tool/spelunkers_wand"
         }
       }
     ],

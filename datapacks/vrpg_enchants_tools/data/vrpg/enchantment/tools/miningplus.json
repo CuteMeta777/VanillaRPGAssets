@@ -1,0 +1,14 @@
+﻿{
+  "description": {
+    "translate": "enchantment.vrpg.miningplus",
+    "fallback": "Mining Plus"
+  },
+  "supported_items": "#minecraft:mining_loot_enchantable",
+  "primary_items": "#minecraft:mining_loot_enchantable",
+  "weight": 2,
+  "max_level": 5,
+  "min_cost": { "base": 10, "per_level_above_first": 5 },
+  "max_cost": { "base": 60, "per_level_above_first": 5 },
+  "anvil_cost": 4,
+  "slots": ["mainhand", "head", "chest", "legs", "feet"]
+}
