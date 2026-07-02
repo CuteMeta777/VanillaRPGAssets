@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/hurricane_wand"
+    "layer0": "minecraft:item/weapon/magic/hurricane_wand"
   }
 }

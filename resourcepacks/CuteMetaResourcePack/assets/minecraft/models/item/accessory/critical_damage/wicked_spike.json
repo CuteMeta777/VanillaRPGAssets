@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/wicked_spike"
+    "layer0": "minecraft:item/accessory/critical_damage/wicked_spike"
   }
 }

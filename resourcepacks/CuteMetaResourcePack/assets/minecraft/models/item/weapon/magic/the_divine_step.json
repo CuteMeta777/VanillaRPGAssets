@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/the_divine_step"
+    "layer0": "minecraft:item/weapon/magic/the_divine_step"
   }
 }

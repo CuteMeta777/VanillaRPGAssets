@@ -2,18 +2,18 @@
   "model": {
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bread"
+    },
     "entries": [
       {
         "threshold": 4000,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/eternal_bread"
+          "model": "minecraft:item/utility/general/eternal_bread"
         }
       }
-    ],
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/bread"
-    }
+    ]
   }
 }

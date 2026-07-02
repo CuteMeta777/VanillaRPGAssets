@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/gaze_of_the_void"
+    "layer0": "minecraft:item/accessory/critical_chance/gaze_of_the_void"
   }
 }

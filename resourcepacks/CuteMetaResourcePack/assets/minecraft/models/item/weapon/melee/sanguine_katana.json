@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/sanguine_katana"
+    "layer0": "minecraft:item/weapon/melee/sanguine_katana"
   }
 }

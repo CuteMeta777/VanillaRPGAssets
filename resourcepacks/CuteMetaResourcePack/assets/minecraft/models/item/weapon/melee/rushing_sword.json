@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/rushing_sword"
+    "layer0": "minecraft:item/weapon/melee/rushing_sword"
   }
 }

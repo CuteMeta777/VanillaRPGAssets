@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/simply_fatal"
+    "layer0": "minecraft:item/accessory/critical_chance/simply_fatal"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/holy_cannon"
+    "layer0": "minecraft:item/weapon/healing/holy_cannon"
   }
 }

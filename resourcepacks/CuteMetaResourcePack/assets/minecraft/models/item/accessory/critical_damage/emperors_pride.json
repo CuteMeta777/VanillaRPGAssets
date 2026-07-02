@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/emperors_pride"
+    "layer0": "minecraft:item/accessory/critical_damage/emperors_pride"
   }
 }

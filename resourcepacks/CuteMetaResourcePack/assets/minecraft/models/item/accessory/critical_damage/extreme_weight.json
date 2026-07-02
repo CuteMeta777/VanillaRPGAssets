@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/extreme_weight"
+    "layer0": "minecraft:item/accessory/critical_damage/extreme_weight"
   }
 }

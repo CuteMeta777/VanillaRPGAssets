@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/extreme_accelerator"
+    "layer0": "minecraft:item/accessory/speed/extreme_accelerator"
   }
 }

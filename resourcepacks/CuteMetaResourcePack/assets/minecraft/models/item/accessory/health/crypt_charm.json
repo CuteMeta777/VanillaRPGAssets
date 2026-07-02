@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/crypt_charm"
+    "layer0": "minecraft:item/accessory/health/crypt_charm"
   }
 }
