@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/weapon/healing/wand_of_mending"
-  }
-}

@@ -1,0 +1,124 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_sword"
+    },
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_sword"
+        }
+      },
+      {
+        "threshold": 1000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/rogue_sword"
+        }
+      },
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/dashing_sword"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/rushing_sword"
+        }
+      },
+      {
+        "threshold": 1003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/assassin_dagger"
+        }
+      },
+      {
+        "threshold": 1004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/shadowster_dagger"
+        }
+      },
+      {
+        "threshold": 1005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/bashing_sword"
+        }
+      },
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/lucky_sword"
+        }
+      },
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/blessed_sword"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/longsword"
+        }
+      },
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/broadsword"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/giant_sword"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/lunar_sword"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/solar_sword"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/neutral_sword"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/melee/sanguine_katana"
+        }
+      }
+    ]
+  }
+}
