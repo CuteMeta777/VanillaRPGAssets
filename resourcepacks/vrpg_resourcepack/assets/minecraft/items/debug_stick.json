@@ -1,0 +1,306 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/debug_stick"
+    },
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/decent_bow"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/hunter_bow"
+        }
+      },
+      {
+        "threshold": 1017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/skeleton_bow"
+        }
+      },
+      {
+        "threshold": 1018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/sniper_bow"
+        }
+      },
+      {
+        "threshold": 1019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/shiny_bow"
+        }
+      },
+      {
+        "threshold": 1020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/glistering_bow"
+        }
+      },
+      {
+        "threshold": 1021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/tempest_bow"
+        }
+      },
+      {
+        "threshold": 1022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/straight_bow"
+        }
+      },
+      {
+        "threshold": 1023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/linear_bow"
+        }
+      },
+      {
+        "threshold": 1024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/quick_bow"
+        }
+      },
+      {
+        "threshold": 1025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/hasty_bow"
+        }
+      },
+      {
+        "threshold": 1026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/spider_bow"
+        }
+      },
+      {
+        "threshold": 1027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/tarantula_bow"
+        }
+      },
+      {
+        "threshold": 1028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/arachne_bow"
+        }
+      },
+      {
+        "threshold": 1029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/heaven_bow"
+        }
+      },
+      {
+        "threshold": 1030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/bow/terminator"
+        }
+      },
+      {
+        "threshold": 1043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/fire_rod"
+        }
+      },
+      {
+        "threshold": 1044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/inferno_rod"
+        }
+      },
+      {
+        "threshold": 1045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/glacial_staff"
+        }
+      },
+      {
+        "threshold": 1046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/hurricane_wand"
+        }
+      },
+      {
+        "threshold": 1047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/gravity_scroll"
+        }
+      },
+      {
+        "threshold": 1048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/ice_rod"
+        }
+      },
+      {
+        "threshold": 1049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/vulcan_staff"
+        }
+      },
+      {
+        "threshold": 1050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/lightning_scroll"
+        }
+      },
+      {
+        "threshold": 1051,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/cataclysm_scroll"
+        }
+      },
+      {
+        "threshold": 1052,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/the_divine_step"
+        }
+      },
+      {
+        "threshold": 1053,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/supernova_staff"
+        }
+      },
+      {
+        "threshold": 1054,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/magic/zenith"
+        }
+      },
+      {
+        "threshold": 1055,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/wand_of_healing"
+        }
+      },
+      {
+        "threshold": 1056,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/wand_of_mending"
+        }
+      },
+      {
+        "threshold": 1057,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/wand_of_restoration"
+        }
+      },
+      {
+        "threshold": 1058,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/wand_of_atonement"
+        }
+      },
+      {
+        "threshold": 1059,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/zombies_harvest"
+        }
+      },
+      {
+        "threshold": 1060,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/reapers_harvest"
+        }
+      },
+      {
+        "threshold": 1061,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/ghouls_harvest"
+        }
+      },
+      {
+        "threshold": 1062,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/wraths_harvest"
+        }
+      },
+      {
+        "threshold": 1063,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/holy_cannon"
+        }
+      },
+      {
+        "threshold": 1064,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/purifying_sceptre"
+        }
+      },
+      {
+        "threshold": 1065,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/hero_wand"
+        }
+      },
+      {
+        "threshold": 1066,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/weapon/healing/the_tranquility"
+        }
+      },
+      {
+        "threshold": 1067,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
+      }
+    ]
+  }
+}
