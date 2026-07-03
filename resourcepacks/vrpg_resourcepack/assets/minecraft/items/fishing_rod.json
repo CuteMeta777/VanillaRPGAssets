@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/fishing_rod"
+    },
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fishing_rod"
+        }
+      },
+      {
+        "threshold": 7017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/perfect_fishing_rod"
+        }
+      },
+      {
+        "threshold": 7018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fishing_rod"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/beacon"
+    },
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/beacon"
+        }
+      },
+      {
+        "threshold": 7007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/repelling_beacon"
+        }
+      },
+      {
+        "threshold": 7008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/antigravity_generator"
+        }
+      },
+      {
+        "threshold": 7009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/beacon"
+        }
+      },
+      {
+        "threshold": 7011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/compacted_repelling_beacon"
+        }
+      },
+      {
+        "threshold": 7012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/compacted_antigravity_generator"
+        }
+      },
+      {
+        "threshold": 7013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/beacon"
+        }
+      }
+    ]
+  }
+}

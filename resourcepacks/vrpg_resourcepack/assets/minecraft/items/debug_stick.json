@@ -741,6 +741,83 @@
           "type": "minecraft:model",
           "model": "minecraft:item/debug_stick"
         }
+      },
+      {
+        "threshold": 7002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/returning_totem"
+        }
+      },
+      {
+        "threshold": 7003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/homing_totem"
+        }
+      },
+      {
+        "threshold": 7004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/hardening_catalyst"
+        }
+      },
+      {
+        "threshold": 7005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/the_wisdom"
+        }
+      },
+      {
+        "threshold": 7009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/miners_wand"
+        }
+      },
+      {
+        "threshold": 7010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/spelunkers_wand"
+        }
+      },
+      {
+        "threshold": 7014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/vault_expander"
+        }
+      },
+      {
+        "threshold": 7015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/accessory_bag_expander"
+        }
+      },
+      {
+        "threshold": 7016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/player_teleport_scroll"
+        }
+      },
+      {
+        "threshold": 7018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/utility/general/core_of_everything"
+        }
+      },
+      {
+        "threshold": 7020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/debug_stick"
+        }
       }
     ]
   }
