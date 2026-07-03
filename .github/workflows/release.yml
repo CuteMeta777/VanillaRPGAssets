@@ -31,17 +31,10 @@ jobs:
             cd ..
           fi
 
-          # Zip resourcepack if exists
-          if [ -d "resourcepacks/CuteMetaResourcePack" ]; then
-            cd resourcepacks/CuteMetaResourcePack
-            zip -r ../../output/resourcepack.zip .
-            cd ../..
-          fi
-
-          # Zip PCKResourcePack if exists
-          if [ -d "resourcepacks/PCKResourcePack" ]; then
-            cd resourcepacks/PCKResourcePack
-            zip -r ../../output/pck_resourcepack.zip .
+          # Zip vrpg_resourcepack if exists
+          if [ -d "resourcepacks/vrpg_resourcepack" ]; then
+            cd resourcepacks/vrpg_resourcepack
+            zip -r ../../output/vrpg_resourcepack.zip .
             cd ../..
           fi
 
@@ -72,10 +65,7 @@ jobs:
           if [ -f "output/datapack.zip" ]; then
             gh release upload latest output/datapack.zip --clobber
           fi
-          if [ -f "output/resourcepack.zip" ]; then
-            gh release upload latest output/resourcepack.zip --clobber
-          fi
-          if [ -f "output/pck_resourcepack.zip" ]; then
-            gh release upload latest output/pck_resourcepack.zip --clobber
+          if [ -f "output/vrpg_resourcepack.zip" ]; then
+            gh release upload latest output/vrpg_resourcepack.zip --clobber
           fi
           gh release upload latest output/checksums.txt --clobber
