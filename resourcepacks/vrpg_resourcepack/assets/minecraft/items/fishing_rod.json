@@ -8,24 +8,24 @@
     },
     "entries": [
       {
-        "threshold": 0,
+        "threshold": 34000,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/fishing_rod"
+          "model": "minecraft:item/fishing_rod/fine_fishing_rod"
         }
       },
       {
-        "threshold": 7017,
+        "threshold": 34001,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/utility/general/perfect_fishing_rod"
+          "model": "minecraft:item/fishing_rod/flawless_fishing_rod"
         }
       },
       {
-        "threshold": 7018,
+        "threshold": 34002,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/fishing_rod"
+          "model": "minecraft:item/fishing_rod/perfect_fishing_rod"
         }
       }
     ]

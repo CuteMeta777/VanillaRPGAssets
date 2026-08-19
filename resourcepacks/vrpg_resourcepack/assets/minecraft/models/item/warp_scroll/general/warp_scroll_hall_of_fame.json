@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/warp_scroll/general/warp_scroll_hall_of_fame"
-  }
-}

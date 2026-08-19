@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/reforge_stone/reforge_stone_spiritual"
+  }
+}

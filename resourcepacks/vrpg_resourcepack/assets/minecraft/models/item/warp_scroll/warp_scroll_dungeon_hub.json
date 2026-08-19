@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/warp_scroll/warp_scroll_dungeon_hub"
+  }
+}

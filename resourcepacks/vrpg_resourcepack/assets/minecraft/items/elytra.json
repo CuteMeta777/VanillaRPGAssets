@@ -8,24 +8,10 @@
     },
     "entries": [
       {
-        "threshold": 0,
+        "threshold": 21015,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/elytra"
-        }
-      },
-      {
-        "threshold": 7006,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/utility/general/eternal_elytra"
-        }
-      },
-      {
-        "threshold": 7007,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/elytra"
+          "model": "minecraft:item/chestplate/eternal_elytra"
         }
       }
     ]

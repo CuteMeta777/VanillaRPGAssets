@@ -1,0 +1,117 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_boots"
+    },
+    "entries": [
+      {
+        "threshold": 23000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/warrior_zombie_boots"
+        }
+      },
+      {
+        "threshold": 23001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/warrior_vanguard_boots"
+        }
+      },
+      {
+        "threshold": 23002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/warrior_gladiator_boots"
+        }
+      },
+      {
+        "threshold": 23003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/archer_skeleton_boots"
+        }
+      },
+      {
+        "threshold": 23004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/archer_sniper_boots"
+        }
+      },
+      {
+        "threshold": 23005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/archer_phantom_boots"
+        }
+      },
+      {
+        "threshold": 23006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/tanker_stone_boots"
+        }
+      },
+      {
+        "threshold": 23007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/tanker_protector_boots"
+        }
+      },
+      {
+        "threshold": 23008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/tanker_warding_boots"
+        }
+      },
+      {
+        "threshold": 23009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/mage_wise_boots"
+        }
+      },
+      {
+        "threshold": 23010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/mage_sage_boots"
+        }
+      },
+      {
+        "threshold": 23011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/mage_storm_boots"
+        }
+      },
+      {
+        "threshold": 23012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/healer_seed_boots"
+        }
+      },
+      {
+        "threshold": 23013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/healer_holy_boots"
+        }
+      },
+      {
+        "threshold": 23014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/boots/healer_atonement_boots"
+        }
+      }
+    ]
+  }
+}

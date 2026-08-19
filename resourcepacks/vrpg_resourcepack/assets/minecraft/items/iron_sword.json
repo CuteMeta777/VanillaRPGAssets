@@ -8,115 +8,115 @@
     },
     "entries": [
       {
-        "threshold": 0,
+        "threshold": 10000,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/iron_sword"
+          "model": "minecraft:item/sword/rogue_sword"
         }
       },
       {
-        "threshold": 1000,
+        "threshold": 10001,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/rogue_sword"
+          "model": "minecraft:item/sword/dashing_sword"
         }
       },
       {
-        "threshold": 1001,
+        "threshold": 10002,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/dashing_sword"
+          "model": "minecraft:item/sword/rushing_sword"
         }
       },
       {
-        "threshold": 1002,
+        "threshold": 10003,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/rushing_sword"
+          "model": "minecraft:item/sword/assassin_dagger"
         }
       },
       {
-        "threshold": 1003,
+        "threshold": 10004,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/assassin_dagger"
+          "model": "minecraft:item/sword/shadowster_dagger"
         }
       },
       {
-        "threshold": 1004,
+        "threshold": 10005,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/shadowster_dagger"
+          "model": "minecraft:item/sword/bashing_sword"
         }
       },
       {
-        "threshold": 1005,
+        "threshold": 10006,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/bashing_sword"
+          "model": "minecraft:item/sword/lucky_sword"
         }
       },
       {
-        "threshold": 1006,
+        "threshold": 10007,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/lucky_sword"
+          "model": "minecraft:item/sword/blessed_sword"
         }
       },
       {
-        "threshold": 1007,
+        "threshold": 10008,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/blessed_sword"
+          "model": "minecraft:item/sword/longsword"
         }
       },
       {
-        "threshold": 1008,
+        "threshold": 10009,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/longsword"
+          "model": "minecraft:item/sword/broadsword"
         }
       },
       {
-        "threshold": 1009,
+        "threshold": 10010,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/broadsword"
+          "model": "minecraft:item/sword/giant_sword"
         }
       },
       {
-        "threshold": 1010,
+        "threshold": 10011,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/giant_sword"
+          "model": "minecraft:item/sword/lunar_sword"
         }
       },
       {
-        "threshold": 1011,
+        "threshold": 10012,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/lunar_sword"
+          "model": "minecraft:item/sword/solar_sword"
         }
       },
       {
-        "threshold": 1012,
+        "threshold": 10013,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/solar_sword"
+          "model": "minecraft:item/sword/neutral_sword"
         }
       },
       {
-        "threshold": 1013,
+        "threshold": 10014,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/neutral_sword"
+          "model": "minecraft:item/sword/sanguine_katana"
         }
       },
       {
-        "threshold": 1014,
+        "threshold": 10015,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/weapon/melee/sanguine_katana"
+          "model": "minecraft:item/sword/sword_of_the_shredded"
         }
       }
     ]

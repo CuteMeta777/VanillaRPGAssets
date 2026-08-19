@@ -1,0 +1,117 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_helmet"
+    },
+    "entries": [
+      {
+        "threshold": 20000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/warrior_zombie_helmet"
+        }
+      },
+      {
+        "threshold": 20001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/warrior_vanguard_helmet"
+        }
+      },
+      {
+        "threshold": 20002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/warrior_gladiator_helmet"
+        }
+      },
+      {
+        "threshold": 20003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/archer_skeleton_helmet"
+        }
+      },
+      {
+        "threshold": 20004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/archer_sniper_helmet"
+        }
+      },
+      {
+        "threshold": 20005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/archer_phantom_helmet"
+        }
+      },
+      {
+        "threshold": 20006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/tanker_stone_helmet"
+        }
+      },
+      {
+        "threshold": 20007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/tanker_protector_helmet"
+        }
+      },
+      {
+        "threshold": 20008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/tanker_warding_helmet"
+        }
+      },
+      {
+        "threshold": 20009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/mage_wise_helmet"
+        }
+      },
+      {
+        "threshold": 20010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/mage_sage_helmet"
+        }
+      },
+      {
+        "threshold": 20011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/mage_storm_helmet"
+        }
+      },
+      {
+        "threshold": 20012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/healer_seed_helmet"
+        }
+      },
+      {
+        "threshold": 20013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/healer_holy_helmet"
+        }
+      },
+      {
+        "threshold": 20014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/helmet/healer_atonement_helmet"
+        }
+      }
+    ]
+  }
+}
