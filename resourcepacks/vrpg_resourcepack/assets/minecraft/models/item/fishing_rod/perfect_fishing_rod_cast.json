@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/fishing_rod",
+  "parent": "minecraft:item/fishing_rod_cast",
   "textures": {
     "layer0": "minecraft:item/fishing_rod/perfect_fishing_rod"
   }

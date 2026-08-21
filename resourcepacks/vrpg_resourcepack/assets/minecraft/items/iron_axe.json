@@ -890,147 +890,147 @@
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100000,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_clean"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100001,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_fierce"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100002,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_light"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100003,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_smart"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100004,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_dominant"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100005,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_hyper"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100006,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_suspicious"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100007,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_heavy"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100008,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_hard"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100009,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_bouncy"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100010,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_hasty"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100011,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_precise"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100012,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_spiritual"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100013,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_heroic"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100014,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_wierd"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100015,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_renowned"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100016,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_lush"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100017,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_robust"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100018,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_magnetic"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100019,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_dirty"
         }
       },
       {
-        "threshold": 999999,
+        "threshold": 100020,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/reforge_stone/reforge_stone_lucky"
