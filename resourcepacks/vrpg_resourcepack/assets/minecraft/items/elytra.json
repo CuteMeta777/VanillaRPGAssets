@@ -8,7 +8,7 @@
     },
     "entries": [
       {
-        "threshold": 21015,
+        "threshold": 21000,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/chestplate/eternal_elytra"
