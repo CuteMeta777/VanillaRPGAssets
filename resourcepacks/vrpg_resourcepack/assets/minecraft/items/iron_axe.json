@@ -690,11 +690,18 @@
         "threshold": 60003,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/enhancer/solidifier"
+          "model": "minecraft:item/enhancer/the_wisdom"
         }
       },
       {
         "threshold": 60004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/enhancer/solidifier"
+        }
+      },
+      {
+        "threshold": 60005,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/enhancer/hardening_catalyst"
@@ -824,13 +831,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/utility/homing_totem"
-        }
-      },
-      {
-        "threshold": 80004,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/utility/the_wisdom"
         }
       },
       {

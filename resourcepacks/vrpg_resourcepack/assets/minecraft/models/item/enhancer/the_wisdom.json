@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/utility/the_wisdom"
+    "layer0": "minecraft:item/enhancer/the_wisdom"
   }
 }
