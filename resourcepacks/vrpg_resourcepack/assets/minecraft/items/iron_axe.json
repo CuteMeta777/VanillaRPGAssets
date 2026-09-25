@@ -834,28 +834,28 @@
         }
       },
       {
-        "threshold": 80010,
+        "threshold": 80009,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/utility/vault_expander"
         }
       },
       {
-        "threshold": 80011,
+        "threshold": 80010,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/utility/accessory_bag_expander"
         }
       },
       {
-        "threshold": 80012,
+        "threshold": 80011,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/utility/player_teleport_scroll"
         }
       },
       {
-        "threshold": 80013,
+        "threshold": 80012,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/utility/core_of_everything"
