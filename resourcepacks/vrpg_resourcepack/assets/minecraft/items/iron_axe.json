@@ -666,6 +666,13 @@
         }
       },
       {
+        "threshold": 50006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/material/suspicious_coin"
+        }
+      },
+      {
         "threshold": 60000,
         "model": {
           "type": "minecraft:model",
